@@ -1,0 +1,7 @@
+*.docx
+test
+train
+model
+*.pkl
+mnist_test.csv
+mnist_train.csv
